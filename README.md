@@ -48,7 +48,7 @@ El ERP permite gestionar diferentes módulos empresariales como:
 La documentación completa de la arquitectura se encuentra en:
 
 - arc42-template-ES.md
-![Plantilla arc42 diligenciada](./arc42-template-ES.md)
+[Plantilla arc42 diligenciada](./arc42-template-ES.md)
 
 ---
 
